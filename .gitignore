@@ -1,0 +1,4 @@
+/.elixir_ls
+/node_modules
+/package-lock.json
+/products.txt
